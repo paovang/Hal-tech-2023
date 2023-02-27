@@ -46,3 +46,5 @@ Route::post('add-user-profile', [UserProfileController::class, 'addUserProfile']
 Route::post('send-email', [MailController::class, 'sendEmail']);
 
 Route::post('check-data', [MailController::class, 'checkData'])->name('check.data');
+
+// paovang test
