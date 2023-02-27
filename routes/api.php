@@ -47,4 +47,12 @@ Route::post('send-email', [MailController::class, 'sendEmail']);
 
 Route::post('check-data', [MailController::class, 'checkData'])->name('check.data');
 
+<<<<<<< HEAD
 // paovang testtt
+=======
+// paovang test
+// test
+
+
+// phonpadid
+>>>>>>> 5a79d71115521df2b4e6acb58a569f23e5ecd098
