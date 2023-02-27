@@ -48,3 +48,4 @@ Route::post('send-email', [MailController::class, 'sendEmail']);
 Route::post('check-data', [MailController::class, 'checkData'])->name('check.data');
 
 // paovang test
+// test
